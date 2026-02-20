@@ -4,7 +4,7 @@ layout: default
 
 # Gubbachi Labs Pvt Ltd
 
-<p align="center"> <img src="logo.png" alt="Gubbachi Labs Logo" width="75%"/> </p>
+<p align="center"> <img src="logo.png" alt="Gubbachi Labs Logo" width="65%"/> </p>
 
 **Gubbachi Labs Pvt Ltd** is a product innovation studio focused on building thoughtful, technology-driven solutions across AI, hospitality tech, sustainability, and consumer platforms. We combine deep engineering expertise with strong product thinking to create systems that are scalable, practical, and impact-oriented.
 
