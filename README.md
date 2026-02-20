@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Gubbachi Labs Pvt Ltd
 
 <p align="center"> <img src="logo.png" alt="Gubbachi Labs Logo" width="75%"/> </p>
